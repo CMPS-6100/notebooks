@@ -8,7 +8,7 @@ def get_header(fname):
 	except Exception as e:
 		return 'name'
 
-for module in sorted(glob.glob("[0-9][0-1]-*")):
+for module in sorted(glob.glob("[0-9][0-9]-*")):
 	module_title = '**{}**'.format(get_header('{}/README.md'.format(module)))
 	print('|[{}](https://github.com/{}/{}/tree/main/{})|'.format(module_title, github_organization, github_repo, module))
 	for lecture in sorted(glob.glob('{}/0*'.format(module))):
