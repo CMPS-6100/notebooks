@@ -1,6 +1,6 @@
 # CMPS 6100 Notebooks
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/cmps2200-fall2021/cmps-2200-slides/main)
+[![nbviewer](https://github.com/jupyter/design/blob/master/logos/Badges/nbviewer_badge.svg)](https://nbviewer.org/github/CMPS-6100/notebooks/tree/main/)
 
 All course notebooks are listed below. These are organized by module, each of which will contains multiple notebooks organized by topic..  
 Many are lectures are prepared using [Jupyter](https://jupyter.org/), an interactive environment for coding and presenting. There are multiple ways to view them:
