@@ -17,3 +17,6 @@ Many are lectures are prepared using [Jupyter](https://jupyter.org/), an interac
 |&nbsp;&nbsp;[Conditionals](https://nbviewer.jupyter.org/github/CMPS-6100/notebooks/blob/main/01-Programming/07-conditionals.ipynb?flush_cache=True)|
 |&nbsp;&nbsp;[Loops](https://nbviewer.jupyter.org/github/CMPS-6100/notebooks/blob/main/01-Programming/08-loops.ipynb?flush_cache=True)|
 |&nbsp;&nbsp;[Functions](https://nbviewer.jupyter.org/github/CMPS-6100/notebooks/blob/main/01-Programming/09-functions.ipynb?flush_cache=True)|
+|[**Algorithms and Algorithm Analysis**](https://github.com/CMPS-6100/notebooks/tree/main/02-Algorithms)|
+|&nbsp;&nbsp;[Intoduction](https://nbviewer.jupyter.org/github/CMPS-6100/notebooks/blob/main/02-Algorithms/02-intoduction.ipynb?flush_cache=True)|
+|&nbsp;&nbsp;[Asymptotic_analysis](https://nbviewer.jupyter.org/github/CMPS-6100/notebooks/blob/main/02-Algorithms/03-asymptotic_analysis.ipynb?flush_cache=True)|
