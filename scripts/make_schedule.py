@@ -12,7 +12,9 @@ for module in sorted(glob.glob("[0-9][0-9]-*")):
 	module_title = '**{}**'.format(get_header('{}/README.md'.format(module)))
 	print('|[{}](https://github.com/{}/{}/tree/main/{})|'.format(module_title, github_organization, github_repo, module))
 	for lecture in sorted(glob.glob('{}/0*'.format(module))):
-		lecture_title = "{}".format(lecture.split('/')[1][3:-6].capitalize())
+		lecture_title = lecture.split('/')[1][3:-6] # 01-selection_sort.ipynb -> selection_sort
+		lecture_title = " ".join(lecture_title.split("_")).title() # selection_sort -> Selection Sort
+
 		ipynb = '&nbsp;&nbsp;[{}](https://nbviewer.jupyter.org/github/{}/{}/blob/main/{}?flush_cache=True)'.format(lecture_title, github_organization, github_repo, lecture)
 
 		print('|{}|'.format(ipynb))

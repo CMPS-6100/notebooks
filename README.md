@@ -10,13 +10,19 @@ Many are lectures are prepared using [Jupyter](https://jupyter.org/), an interac
 
 |topic|
 |-----|
-|[**Introduction to Programming**](https://github.com/CMPS-6100/notebooks/tree/main/01-Programming)|
-|&nbsp;&nbsp;[Variables](https://nbviewer.jupyter.org/github/CMPS-6100/notebooks/blob/main/01-Programming/04-variables.ipynb?flush_cache=True)|
-|&nbsp;&nbsp;[Strings](https://nbviewer.jupyter.org/github/CMPS-6100/notebooks/blob/main/01-Programming/05-strings.ipynb?flush_cache=True)|
-|&nbsp;&nbsp;[Input_output](https://nbviewer.jupyter.org/github/CMPS-6100/notebooks/blob/main/01-Programming/06-input_output.ipynb?flush_cache=True)|
-|&nbsp;&nbsp;[Conditionals](https://nbviewer.jupyter.org/github/CMPS-6100/notebooks/blob/main/01-Programming/07-conditionals.ipynb?flush_cache=True)|
-|&nbsp;&nbsp;[Loops](https://nbviewer.jupyter.org/github/CMPS-6100/notebooks/blob/main/01-Programming/08-loops.ipynb?flush_cache=True)|
-|&nbsp;&nbsp;[Functions](https://nbviewer.jupyter.org/github/CMPS-6100/notebooks/blob/main/01-Programming/09-functions.ipynb?flush_cache=True)|
+|[**Introduction to Programming**](https://github.com/CMPS-6100/notebooks/tree/main/01-Intro-to-Programming)|
+|&nbsp;&nbsp;[Variables](https://nbviewer.jupyter.org/github/CMPS-6100/notebooks/blob/main/01-Intro-to-Programming/04-variables.ipynb?flush_cache=True)|
+|&nbsp;&nbsp;[Strings](https://nbviewer.jupyter.org/github/CMPS-6100/notebooks/blob/main/01-Intro-to-Programming/05-strings.ipynb?flush_cache=True)|
+|&nbsp;&nbsp;[Input/Output](https://nbviewer.jupyter.org/github/CMPS-6100/notebooks/blob/main/01-Intro-to-Programming/06-input_output.ipynb?flush_cache=True)|
+|&nbsp;&nbsp;[Conditionals](https://nbviewer.jupyter.org/github/CMPS-6100/notebooks/blob/main/01-Intro-to-Programming/07-conditionals.ipynb?flush_cache=True)|
+|&nbsp;&nbsp;[Loops](https://nbviewer.jupyter.org/github/CMPS-6100/notebooks/blob/main/01-Intro-to-Programming/08-loops.ipynb?flush_cache=True)|
+|&nbsp;&nbsp;[Functions](https://nbviewer.jupyter.org/github/CMPS-6100/notebooks/blob/main/01-Intro-to-Programming/09-functions.ipynb?flush_cache=True)|
 |[**Algorithms and Algorithm Analysis**](https://github.com/CMPS-6100/notebooks/tree/main/02-Algorithms)|
 |&nbsp;&nbsp;[Intoduction](https://nbviewer.jupyter.org/github/CMPS-6100/notebooks/blob/main/02-Algorithms/02-intoduction.ipynb?flush_cache=True)|
-|&nbsp;&nbsp;[Asymptotic_analysis](https://nbviewer.jupyter.org/github/CMPS-6100/notebooks/blob/main/02-Algorithms/03-asymptotic_analysis.ipynb?flush_cache=True)|
+|&nbsp;&nbsp;[Asymptotic Analysis](https://nbviewer.jupyter.org/github/CMPS-6100/notebooks/blob/main/02-Algorithms/03-asymptotic_analysis.ipynb?flush_cache=True)|
+|&nbsp;&nbsp;[Selection Sort](https://nbviewer.jupyter.org/github/CMPS-6100/notebooks/blob/main/02-Algorithms/04-selection_sort.ipynb?flush_cache=True)|
+|&nbsp;&nbsp;[Recursion](https://nbviewer.jupyter.org/github/CMPS-6100/notebooks/blob/main/02-Algorithms/05-recursion.ipynb?flush_cache=True)|
+|&nbsp;&nbsp;[Parallelism](https://nbviewer.jupyter.org/github/CMPS-6100/notebooks/blob/main/02-Algorithms/06-parallelism.ipynb?flush_cache=True)|
+|&nbsp;&nbsp;[Recurrences Pt 1](https://nbviewer.jupyter.org/github/CMPS-6100/notebooks/blob/main/02-Algorithms/07-recurrences_pt_1.ipynb?flush_cache=True)|
+|&nbsp;&nbsp;[Recurrences Pt 2](https://nbviewer.jupyter.org/github/CMPS-6100/notebooks/blob/main/02-Algorithms/08-recurrences_pt_2.ipynb?flush_cache=True)|
+|&nbsp;&nbsp;[Merge Sort](https://nbviewer.jupyter.org/github/CMPS-6100/notebooks/blob/main/02-Algorithms/09-merge_sort.ipynb?flush_cache=True)|
