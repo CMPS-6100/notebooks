@@ -6,12 +6,13 @@
 All course notebooks are listed below. These are organized by module, each of which will contains multiple notebooks organized by topic..  
 Many are lectures are prepared using [Jupyter](https://jupyter.org/), an interactive environment for coding and presenting. There are multiple ways to view them:
 
-1. You can  clone this repo and launch the notebooks locally by running `jupyter notebook` (requires installing  [Jupyter](https://jupyter.org/)).
-2. Dynamically: view a live version of the notebook using [binder](https://mybinder.org/)
+1. Dynamically: view a live version of the notebook using [binder](https://mybinder.org/). 
+    -   Each notebook is directly linked below.
+2. You can  clone this repo and launch the notebooks locally by running `jupyter notebook` (requires installing  [Jupyter](https://jupyter.org/)).
 3. Statically: view a static version of the notebook using [nbviewer](https://nbviewer.jupyter.org)
 
 
-|topic|
+|Topic|
 |-----|
 |[**Introduction to Programming**](https://github.com/CMPS-6100/notebooks/tree/main/01-Intro-to-Programming)|
 |&nbsp;&nbsp;Variables &nbsp;&nbsp; [live](https://mybinder.org/v2/gh/CMPS-6100/notebooks/main?filepath=01-Intro-to-Programming/04-variables.ipynb) / [static](https://nbviewer.jupyter.org/github/CMPS-6100/notebooks/blob/main/01-Intro-to-Programming/04-variables.ipynb?flush_cache=True)|
