@@ -8,7 +8,6 @@ All course notebooks are listed below. These are organized by module, each of wh
 These notebooks are prepared using [Jupyter](https://jupyter.org/), an interactive environment for coding and presenting. There are multiple ways to view them:
 
 1. Dynamically: view a live version of the notebook using [binder](https://mybinder.org/). 
-    -   Each notebook is directly linked below.
 2. Statically: view a static version of the notebook using [nbviewer](https://nbviewer.jupyter.org)
 3. You can  clone this repo and view the notebooks locally. Microsoft's [VS Code](https://code.visualstudio.com/) natively supports jupyter.
 
