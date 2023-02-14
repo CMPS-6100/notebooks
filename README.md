@@ -3,13 +3,16 @@
 [![nbviewer](https://github.com/jupyter/design/blob/master/logos/Badges/nbviewer_badge.svg)](https://nbviewer.org/github/CMPS-6100/notebooks/tree/main/)
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/cmps2200-fall2021/cmps-2200-slides/main)
 
-All course notebooks are listed below. These are organized by module, each of which will contains multiple notebooks organized by topic..  
-Many are lectures are prepared using [Jupyter](https://jupyter.org/), an interactive environment for coding and presenting. There are multiple ways to view them:
+All course notebooks are listed below. These are organized by module, each of which contains multiple notebooks organized by topic.
+
+These notebooks are prepared using [Jupyter](https://jupyter.org/), an interactive environment for coding and presenting. There are multiple ways to view them:
 
 1. Dynamically: view a live version of the notebook using [binder](https://mybinder.org/). 
     -   Each notebook is directly linked below.
-2. You can  clone this repo and launch the notebooks locally by running `jupyter notebook` (requires installing  [Jupyter](https://jupyter.org/)).
-3. Statically: view a static version of the notebook using [nbviewer](https://nbviewer.jupyter.org)
+2. Statically: view a static version of the notebook using [nbviewer](https://nbviewer.jupyter.org)
+3. You can  clone this repo and view the notebooks locally. Microsoft's [VS Code](https://code.visualstudio.com/) natively supports jupyter.
+
+Links for using methods 1 and 2 are provided below, but method 3 is the preferred method. Once set up, viewing and interacting with notebooks locally will be your smoothest option.
 
 
 |Topic|
